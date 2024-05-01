@@ -1,0 +1,22 @@
+
+.app{
+  background-image: url('/Imagenes/Background.jpg');
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.smsseg{
+ 
+  color: blue;
+  background-color:white;
+  padding: 0.2em;
+  margin-top: 2em;
+}
+.showsmserror{
+  color: blue;
+  background-color: white;
+  padding: 0.3em;
+}
